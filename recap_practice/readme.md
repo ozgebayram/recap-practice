@@ -1,3 +1,3 @@
-# CSS Recap Projesinin Canlı için
+# CSS Recap Project
 
-https://css-recap.netlify.app/#
+
